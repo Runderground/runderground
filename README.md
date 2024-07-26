@@ -8,6 +8,7 @@
 
 <div align="center">
   ☁️ Atualmente desenvolvendo o Cloudzone
+
   ☕ Minha linguagem preferida é <img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/node/live/logo-1720462243432.png" alt="Node"/>
 </div>
 
