@@ -8,10 +8,11 @@
 
 <div align="center">
   ☁️ Atualmente desenvolvendo o Cloudzone
-<Br/>
+
   ☕ Minha linguagem preferida é *NodeJS*
 
   🧙 Desenvolvedor FullStack
+
 </div>
 
 ![Linguagens que mais utilizo](https://github-readme-stats.vercel.app/api/top-langs/?username=runderground&hide_progress=true&locale=pt-br)
