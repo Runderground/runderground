@@ -11,11 +11,7 @@
 
 <div align="center">
 
-  ☁️ Atualmente desenvolvendo o **CloudZone**
-
-  ☕ Minha linguagem preferida é **NodeJS**
-
-  🧙 Desenvolvedor **FullStack**
+  🧙 Desenvolvedor Web **FullStack**
 
 </div>
 
